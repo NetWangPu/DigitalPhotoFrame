@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "getfile.h": "c",
+        "cmd.h": "c",
+        "sound.h": "c",
+        "pic.h": "c",
+        "netmqtt.h": "c"
+    }
+}
