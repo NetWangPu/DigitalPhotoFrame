@@ -64,7 +64,7 @@ sudo apt install libncurses5-dev
 ##### 编译指令
 
 ```shell
- gcc main.c sound.c  pic.c cmd.c -ljpeg -lpthread -lncurses
+ gcc main.c sound.c  pic.c cmd.c -ljpeg -lpthread -lncurses -lm
 ```
 
 #### 项目写的一般，有很多不足之处，欢迎大家指正，项目还需要继续完善优化 时间有限，后续会继续完善
